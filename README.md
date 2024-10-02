@@ -42,7 +42,7 @@ meta name="viewport" content="width=device-width, initial-scale=1.0"> <
 
 <button id="searchButton">Search</button>
 
-<!-- Paging control for navigating between results pages -->
+<!-- Paging control for navigating between results s -->
 
 <div>
 
