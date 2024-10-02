@@ -20,7 +20,7 @@ meta name="viewport" content="width=device-width, initial-scale=1.0"> <
 
 <body> grid
 
-<nav></nav> ▼<div class="content">
+<nav></nav> <div class="content">
 
 <h1 id="title">Book Search</h1>
 
